@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CamV/static/css/main.e6c13ad2.css",
-    "main.js": "/CamV/static/js/main.c21ed4eb.js",
+    "main.js": "/CamV/static/js/main.cb7093aa.js",
     "index.html": "/CamV/index.html",
     "main.e6c13ad2.css.map": "/CamV/static/css/main.e6c13ad2.css.map",
-    "main.c21ed4eb.js.map": "/CamV/static/js/main.c21ed4eb.js.map"
+    "main.cb7093aa.js.map": "/CamV/static/js/main.cb7093aa.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c21ed4eb.js"
+    "static/js/main.cb7093aa.js"
   ]
 }
